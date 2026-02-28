@@ -1,0 +1,16 @@
+title: Decompensated Lab
+email: ""
+description: >-
+  A technical personal blog covering software engineering, systems programming,
+  and computer science explorations.
+baseurl: ""
+url: "https://decompensated-lab.github.io"
+github_username: decompensated-lab
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: classic
